@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\Graph.exe.config
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\Graph.exe
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\Graph.pdb
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.FormMap.resources
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.exe
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\Graph.pdb
